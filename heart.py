@@ -24,7 +24,7 @@ def main():
     left, right = st.columns(2)
     prediction = st.container()
 
-    st.image("https://www.bing.com/images/search?view=detailV2&ccid=%2BFOJN%2FZ3&id=4F4B699509DB0B2DE02F165C5498EE4AEF376E49&thid=OIP.-FOJN_Z3SRUCfGVI2zk2JgHaEj&mediaurl=https%3A%2F%2Fwww.gossipgrasp.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fheart-concept-illustration-1068x656.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.f8538937f6774915027c6548db393626%3Frik%3DSW4370rumFRcFg%26pid%3DImgRaw%26r%3D0&exph=656&expw=1068&q=heart+disease+images&simid=608029634100267284&form=IRPRST&ck=BE7BBA3C898EA89A609AD69076E9C6F9&selectedindex=9&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_gBUvxkob*cp_5860B5C98C874B94B673049DF2E987F7*mid_8581B926E4F249817DDCA29F14EBA7905CA58EA3*simid_608010160719481104*thid_OIP.gBUvxkobxSgVpDsyNUPZCQHaE8&vt=0&sim=11&iss=VSI")
+    st.image("https://www.bing.com/images/search?q=heart+disease+images&id=A33708E39A081BED6BC252B9361AB7100AEFE5F8&FORM=IQFRBA")
 
     with overview:
         st.title("predict heart disease app")
